@@ -5,10 +5,10 @@
 <div id="intro" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/sadamuhiz/"> 
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Sadamuhiz-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/hizbullah_m" >
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/@Hizbullah_m-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <h3 align="center"> Hi there, you can call me Waves. </h3>
