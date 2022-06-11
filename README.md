@@ -11,10 +11,11 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
+  </div>
   ---
 
     ### 👨‍💻 About Me :
       I'm a College Student 👨‍🎓 from 🇮🇩.
         - 🤓 My focus is developing Backend application and IoT dev wannabe.
         - 🎮 I'd love to watching anime, playing games, and coding.
-</div>
+
