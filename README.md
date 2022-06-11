@@ -11,10 +11,11 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <h3 align="center"> Hi there, you can call me Waves. </h3>
 </div>
-### 👨‍💻 About Me :
-    I'm a College Student 👨‍🎓 from 🇮🇩.
-      - 🤓 My focus is developing Backend application and IoT dev wannabe.
-      - 🎮 I'd love to watching anime, playing games, and coding.
----
 
+### 👨‍💻 &nbsp;About Me :
+I'm a College Student 👨‍🎓 from Indonesia.</br>
+- 🤓 My focus is developing Backend application and IoT dev wannabe.</br>
+- 🎮 I'd love to watching anime, playing games, and coding.
+- - -
