@@ -18,5 +18,5 @@
 I'm a College Student 👨‍🎓 from Indonesia.</br>
 - 🤓 My focus is developing Backend application and IoT dev wannabe.</br>
 - 🎮 I'd love to watching anime, playing games, and coding.
-- 💼 Now working as .NET Developer as Backend Developer.
+- 💼 Now working as .NET Backend Developer.
 - - -
