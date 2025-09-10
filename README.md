@@ -15,7 +15,7 @@
 </div>
 
 ### 👨‍💻 &nbsp;About Me :
-I'm a .NET Backend Enginner, in PT. Yafii Solusi International 🎓.</br>
+I'm a .NET Backend Enginner, in PT. BRI Asuransi Indonesia 🎓.</br>
 - 🤓 My focus is developing Backend application and IoT dev wannabe.</br>
 - 🎮 I'd love to watching anime, playing games, and coding.
 - 👨‍🎓 I'm a Bachelor Information Communication and Technology (HONS) from Asia e-University Malaysia
